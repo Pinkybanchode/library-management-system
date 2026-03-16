@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": "399",
+      "publisher": "HarperOne",
+      "issued": true
+    },
+    {
+      "id": "2",
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self Help",
+      "price": "499",
+      "publisher": "Avery",
+      "issued": true
+    },
+    {
+      "id": "3",
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "Finance",
+      "price": "450",
+      "publisher": "Plata Publishing",
+      "issued": false
+    },
+    {
+      "id": "4",
+      "name": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "price": "420",
+      "publisher": "Jaico Publishing",
+      "issued": true
+    },
+    {
+      "id": "5",
+      "name": "Ikigai",
+      "author": "Hector Garcia",
+      "genre": "Philosophy",
+      "price": "350",
+      "publisher": "Penguin",
+      "issued": false
+    },
+    {
+      "id": "6",
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": "650",
+      "publisher": "Prentice Hall",
+      "issued": false
+    },
+    {
+      "id": "7",
+      "name": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "genre": "Programming",
+      "price": "700",
+      "publisher": "Addison Wesley",
+      "issued": true
+    },
+    {
+      "id": "8",
+      "name": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "price": "480",
+      "publisher": "Grand Central Publishing",
+      "issued": false
+    }
+  ]
+}

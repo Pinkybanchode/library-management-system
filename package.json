@@ -1,0 +1,24 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is a library management api backend for the management of users and books",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinkybanchode/library-management-system.git"
+  },
+  "author": "Pinky Banchode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pinkybanchode/library-management-system/issues"
+  },
+  "homepage": "https://github.com/Pinkybanchode/library-management-system#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
